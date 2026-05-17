@@ -1,2 +1,2 @@
 # Java-practice-labs
-This will hep you to understand basics of oops and java 
+This will help you to understand basics of oops and java.
